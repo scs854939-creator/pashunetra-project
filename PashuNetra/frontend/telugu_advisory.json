@@ -1,0 +1,602 @@
+{
+  "Foot and Mouth Disease": {
+    "disease_en": "Foot and Mouth Disease (FMD)",
+    "disease_te": "గాలికుంటు / నోటి మరియు కాళ్ళ వ్యాధి",
+    "first_aid_en": [
+      "1. Quarantine: Isolate affected cattle immediately in a clean, dry shelter away from healthy livestock.",
+      "2. Oral Relief: Apply a paste of honey or glycerin on mouth and tongue blisters to reduce pain.",
+      "3. Foot Care: Wash infected hooves twice daily with 1% Copper Sulfate or Potassium Permanganate solution.",
+      "4. Feeding: Provide soft, easily digestible gruel (ragi/rice water) instead of dry roughage.",
+      "5. Hygiene: Ensure floor bedding remains completely dry and non-slippery to prevent secondary foot rot.",
+      "6. Vet Alert: Contact the local Veterinary Officer immediately for ring vaccination and antibiotic support."
+    ],
+    "first_aid_te": [
+      "1. క్వారంటైన్: వ్యాధి సోకిన పశువును తక్షణమే వేరుచేసి పొడిగా ఉండే ప్రదేశంలో ఉంచండి.",
+      "2. నోటి చికిత్స: నోరు మరియు నాలుకపై ఉన్న పుండ్లకు ఉపశమనం కోసం తేనె లేదా గ్లిజరిన్ పూయండి.",
+      "3. కాళ్ళ కడుగు: కాళ్ళ పుండ్ల నివారణకు రోజుకు రెండుసార్లు 1% రాగి సుల్ఫేట్ દ్రావణంతో కడగండి.",
+      "4. మెత్తని ఆహారం: ఎండుగడ్డికి బదులుగా రాగి లేదా బియ్యపు జావ వంటి మెత్తటి ద్రవాహారాన్ని ఇవ్వండి.",
+      "5. పరిశుభ్రత: పశువు నిలబడే స్థలం తేమ లేకుండా పొడిగా ఉండేలా చూసుకోండి.",
+      "6. వైద్య సలహా: టీకాలు మరియు తదుపరి చికిత్స కోసం వెంటనే స్థానిక పశువైద్యుడిని సంప్రదించండి."
+    ]
+  },
+  "Lumpy Skin Disease": {
+    "disease_en": "Lumpy Skin Disease (LSD)",
+    "disease_te": "లంపీ స్కిన్ వ్యాధి (చర్మపు బొబ్బల వ్యాధి)",
+    "first_aid_en": [
+      "1. Biosecurity: Immediately isolate infected livestock in a dry, shaded pen away from healthy animals.",
+      "2. Hydration: Provide continuous access to clean water mixed with ORS or oral electrolytes.",
+      "3. Lesion Care: Clean skin nodules using mild antiseptic wash like diluted potassium permanganate or Neem water.",
+      "4. Feeding: Offer soft, fresh green fodder or warm gruel if mouth sores reduce appetite.",
+      "5. Vector Control: Use eco-friendly fly repellents and maintain sanitation to prevent biting flies.",
+      "6. Monitoring: Record body temperature twice daily and report high fever (>104°F) to a local vet officer."
+    ],
+    "first_aid_te": [
+      "1. జీవసురక్షితము: వ్యాధి సోకిన పశువును తక్షణమే మిగిలిన ఆరోగ్యవంతమైన పశువుల నుండి వేరుచేయండి.",
+      "2. మంచి తాగునీరు: పశువుకు ప్రతిసారీ శుభ్రమైన నీటిలో ORS లేదా ఎలక్ట్రోలైట్లు కలిపి అందించండి.",
+      "3. పుండ్ల పరిశుభ్రత: చర్మంపై ఉన్న బొబ్బలను వేపనీరు లేదా పొటాషియం పర్మాంగనేట్ ద్రావణంతో కడగండి.",
+      "4. మెత్తటి మేత: నోటిలో పుండ్లు ఉన్నట్లయితే తినడానికి వీలుగా మెత్తటి పచ్చిగడ్డి లేదా గంజిని అందించండి.",
+      "5. ఈగల నివారణ: ఈగలు మరియు దోమల కాటును నివారించడానికి పశువుల పాకలో పరిశుభ్రత పాటించండి.",
+      "6. ఉష్ణోగ్రత తనిఖీ: రోజుకు రెండుసార్లు శరీర ఉష్ణోగ్రతను గమనిస్తూ స్థానిక పశువైద్యుడికి సమాచారం ఇవ్వండి."
+    ]
+  },
+  "Mastitis": {
+    "disease_en": "Mastitis (Udder Infection)",
+    "disease_te": " పొదుగు వాపు వ్యాధి",
+    "first_aid_en": [
+      "1. Isolation: Milk the infected cow last to prevent cross-contamination via hands or milking gear.",
+      "2. Complete Milking: Strip out infected milk frequently into a container and dispose of it safely.",
+      "3. Cold Therapy: Apply ice packs or cold water compresses to reduce painful udder swelling.",
+      "4. Teat Dipping: Dip teats in a 0.5% povidone-iodine solution before and after milking.",
+      "5. Clean Bedding: Disinfect shed floors and provide dry, soft straw bedding to keep the udder clean.",
+      "6. Vet Treatment: Consult a vet for intramammary antibiotic infusion and anti-inflammatory therapy."
+    ],
+    "first_aid_te": [
+      "1. వేరుచేయుట: వ్యాధి ఉన్న పశువును చివర్లో పాలు పితకడం ద్వారా ఇతర పశువులకు వ్యాప్తి చెందకుండా చూడండి.",
+      "2. పాలు తీయుట: వ్యాధి ఉన్న పాలు పూర్తి స్థాయిలో పితికి సురక్షితంగా పారబోయండి.",
+      "3. ఐస్ మసాజ్: పొదుగు వాపు తగ్గడానికి మంచు గడ్డలు లేదా చల్లటి నీటితో కాపడం పెట్టండి.",
+      "4. టిట్ డిప్పింగ్: పాలు పితకడానికి ముందు మరియు తరువాత పొదుగు చివర్లను పోవిడోన్-ఐయోడిన్ ద్రావణంలో ముంచండి.",
+      "5. పాక శుభ్రత: పశువు పడుకునే చోట ఈగలు లేకుండా పొడిగా మరియు శుభ్రంగా ఉంచండి.",
+      "6. వైద్యాధికారి సంప్రదింపు: యాంటిబయోటిక్ ఇంజెక్షన్ల కోసం వెంటనే పశువైద్యుడిని సంప్రదించండి."
+    ]
+  },
+  "Haemorrhagic Septicaemia": {
+    "disease_en": "Haemorrhagic Septicaemia (HS)",
+    "disease_te": "గొంతువాపు వ్యాధి",
+    "first_aid_en": [
+      "1. Neck Elevation: Keep the animal's head elevated and free of any neck pressure or rope tension.",
+      "2. Swelling Relief: Apply cold water compresses over the swollen neck and throat area.",
+      "3. Strict Rest: Avoid stress, forced movement, or driving the animal during high fever.",
+      "4. Shade & Air: Move the cow to a well-ventilated, shady area away from direct sunlight.",
+      "5. Hydration Support: Offer small amounts of clean water mixed with glucose or oral fluids.",
+      "6. Emergency Vet Care: Administer immediate antibiotic treatment through a vet within early hours."
+    ],
+    "first_aid_te": [
+      "1. మెడ ఎత్తుగా ఉంచుట: గొంతు భాగంపై ఒత్తిడి పడకుండా మెడను కొద్దిగా ఎత్తులో ఉంచండి.",
+      "2. చల్లటి కాపడం: వాచిన గొంతు భాగంలో చల్లటి నీటి పట్టీలు వేయండి.",
+      "3. విశ్రాంతి: అధిక జ్వరం ఉన్నప్పుడు పశువును తోలడం లేదా నడిపించడం చేయకండి.",
+      "4. గాలి తగిలే చోటు: పశువును ఎండ తగలకుండా మంచి గాలి పారే నీడలో ఉంచండి.",
+      "5. తాగే నీరు: కొద్ది కొద్దిగా గ్లూకోజ్ లేదా ఎలక్ట్రోలైట్ నీటిని తాగించండి.",
+      "6. అత్యవసర వైద్యం: ప్రారంభ దశలోనే పశువైద్యుడి ద్వారా యాంటిబయోటిక్స్ ఇప్పించండి."
+    ]
+  },
+  "Black Quarter": {
+    "disease_en": "Black Quarter (BQ)",
+    "disease_te": "జబ్బవాపు వ్యాధి (నల్ల జబ్బ)",
+    "first_aid_en": [
+      "1. Restrict Movement: Keep the affected animal in total confinement; do not force it to walk.",
+      "2. Muscle Fomentation: Apply mild warm compresses to painful, swollen leg muscles.",
+      "3. Carcass Protection: If death occurs, do not open carcass; dispose of via deep burial with lime.",
+      "4. Herd Protection: Isolate other susceptible young cattle (6 months to 2 years) immediately.",
+      "5. Disinfection: Wash the pen floor with 10% formalin solution to kill spore contamination.",
+      "6. Immediate Vet Intervention: Seek urgent high-dose penicillin therapy from a registered vet."
+    ],
+    "first_aid_te": [
+      "1. విశ్రాంతి: బాధింపబడిన పశువును అస్సలు నడిపించకుండా ఒకే చోట విశ్రాంతి ఇవ్వండి.",
+      "2. తోడ కాపడం: వాపు మరియు నొప్పులు ఉన్న కాళ్ళ భాగంలో సున్నితంగా వెచ్చటి కాపడం పెట్టండి.",
+      "3. శవ దహనం/కప్పెట్టుట: పశువు మరణిస్తే కోత కోయకుండా సున్నం చల్లి లోతుగా కప్పెట్టండి.",
+      "4. మంద రక్షణ: 6 నెలల నుండి 2 సంవత్సరాల వయస్సు గల మిగిలిన దూడలను వేరుచేయండి.",
+      "5. పాక క్రిమిసంహారము: పాక నేలను ఫార్మలిన్ లేదా బ్లీచింగ్ పౌడర్‌తో శుభ్రం చేయండి.",
+      "6. అత్యవసర టీకా: తక్షణమే పశువైద్యుడిచే పెన్సిలిన్ యాంటిబయోటిక్ చికిత్స అందించండి."
+    ]
+  },
+  "Brucellosis": {
+    "disease_en": "Brucellosis",
+    "disease_te": "బ్రూసెల్లోసిస్ (పొర్లు వ్యాధి / ఈత కోల్పోవడం)",
+    "first_aid_en": [
+      "1. Isolation: Isolate cows that show signs of late-term abortion or abnormal discharge.",
+      "2. Safe Material Disposal: Burn or deeply bury aborted fetus and placenta using gloves.",
+      "3. Zoonotic Caution: Do not handle raw milk or discharge without rubber protective gloves.",
+      "4. Disinfect Quarters: Scrub calving areas with 2% phenol or bleach solution after disposal.",
+      "5. Milk Safety: Boil all milk thoroughly before consumption to eliminate human health risks.",
+      "6. Herd Screening: Test the entire herd via Blood/Milk Ring Test and vaccinate young heifer calves."
+    ],
+    "first_aid_te": [
+      "1. వేరుచేయుట: ఈత కోల్పోయిన లేదా స్రావాలు వస్తున్న పశువును వెంటనే వేరు చేయండి.",
+      "2. మాయ తొలగింపు: విస్ఫోటనం చెందిన పిండం మరియు మాయను చేతులకు గ్లౌజులు వేసుకుని పూడ్చిపెట్టండి.",
+      "3. వ్యక్తిగత జాగ్రత్తలు: ద్రవాలను నేరుగా చేతులతో తాకవద్దు, ఇది మనుషులకు కూడా సోకుతుంది.",
+      "4. క్రిమిసంహారము: పశువు ఉన్న స్థలాన్ని 2% ఫినాయిల్ లేదా బ్లీచింగ్ తో శుభ్రం చేయండి.",
+      "5. పాలు కాచుట: పాలను బాగా కాచిన తర్వాత మాత్రమే వినియోగించాలి.",
+      "6. మంద పరీక్ష: మందలోని అన్ని పశువులకు బ్లడ్ టెస్ట్ చేయించి దూడలకు టీకాలు వేయించండి."
+    ]
+  },
+  "Bovine Tuberculosis": {
+    "disease_en": "Bovine Tuberculosis (TB)",
+    "disease_te": " పశువుల క్షయ వ్యాధి (టీబీ)",
+    "first_aid_en": [
+      "1. Separate Pen: Keep coughing or emaciated animals in separate, well-ventilated housing.",
+      "2. Fresh Air: Ensure high ventilation and daylight exposure, as UV rays destroy TB bacilli.",
+      "3. Nutritious Feed: Provide high-protein, energy-rich feed to slow down progressive weight loss.",
+      "4. Milk Pasteurization: Pasteurize or boil all milk before feeding to calves or humans.",
+      "5. Sanitize Troughs: Regularly clean feed troughs and waterers to avoid saliva contamination.",
+      "6. Tuberculin Testing: Conduct regular Tuberculin skin testing under a vet's supervision."
+    ],
+    "first_aid_te": [
+      "1. ప్రత్యేక గది: దగ్గు మరియు నీరసంగా ఉన్న పశువులను గాలి ధారాళంగా వచ్చే ప్రత్యేక గదిలో ఉంచండి.",
+      "2. సూర్యరశ్మి: క్రిములు నశించడానికి పాకలోకి సమృద్ధిగా సూర్యరశ్మి మరియు వెలుతురు వచ్చేలా చూడండి.",
+      "3. పోషకాహారం: బరువు తగ్గకుండా ఉండేందుకు మాంసకృత్తులు ఉన్న మంచి ద్రావాహారాన్ని ఇవ్వండి.",
+      "4. పాలు మరిగించుట: పాలను బాగా మరిగించిన తరువాతే దూడలకు లేదా మనుషులకు వాడాలి.",
+      "5. తొట్టెల శుభ్రత: ఆహారం మరియు నీటి తొట్టెలను ప్రతిరోజూ శుభ్రపరచండి.",
+      "6. టీబీ పరీక్ష: పశువైద్యుడి ద్వారా ట్యూబర్కులిన్ చర్మ పరీక్ష చేయించండి."
+    ]
+  },
+  "Johne Disease": {
+    "disease_en": "Johne's Disease (Paratuberculosis)",
+    "disease_te": " జోన్స్ వ్యాధి (నరాల బలహీనత / దీర్ఘకాలిక విరేచనాలు)",
+    "first_aid_en": [
+      "1. Isolate Diarrheic Cows: Isolate animals exhibiting chronic, non-responsive diarrhea.",
+      "2. Fluid Electrolytes: Provide continuous electrolyte solutions to prevent severe dehydration.",
+      "3. Hygiene Management: Prevent calf exposure to dung of adult infected cattle.",
+      "4. Separate Feeders: Ensure water and feed troughs are elevated to avoid manure contamination.",
+      "5. Culled Protection: Avoid breeding affected animals to prevent offspring transmission.",
+      "6. Vet Confirmation: Confirm diagnosis using fecal PCR/ELISA test through a veterinarian."
+    ],
+    "first_aid_te": [
+      "1. విరేచన పశువుల నివారణ: దీర్ఘకాలిక విరేచనాలతో బాధపడుతున్న పశువును మంద నుండి వేరు చేయండి.",
+      "2. ఎలక్ట్రోలైట్లు: శరీరంలో నీటి శాతం తగ్గకుండా ఎలక్ట్రోలైట్ నీటిని అందిస్తూ ఉండండి.",
+      "3. పేడ పరిశుభ్రత: పెద్ద పశువుల పేడ దూడలకు తగలకుండా జాగ్రత్త పడండి.",
+      "4. తొట్టెల ఎత్తు: మేత మరియు నీటి తొట్టెలను పేడ పడకుండా ఎత్తులో ఏర్పాటు చేయండి.",
+      "5. సంతానోత్పత్తి నివారణ: వ్యాధి సోకిన పశువులను ప్రజననానికి ఉపయోగించకండి.",
+      "6. నిర్ధారణ పరీక్ష: ఫీకల్ PCR లేదా ఎలిసా పరీక్షల ద్వారా వ్యాధి నిర్ధారణ చేయించండి."
+    ]
+  },
+  "Anthrax": {
+    "disease_en": "Anthrax",
+    "disease_te": " మశూచి / ఆంత్రక్స్ (దొమ్మ వ్యాధి)",
+    "first_aid_en": [
+      "1. No Carcass Autopsy: DO NOT open the carcass if dark non-clotting blood exudes from natural orifices.",
+      "2. Immediate Quarantine: Lock down the infected farm zone and halt all animal movement.",
+      "3. Deep Burial: Bury dead animals 6 feet deep covered completely with quicklime.",
+      "4. Disinfect Premises: Burn contaminated bedding and spray grounds with 5% caustic soda.",
+      "5. Ring Vaccination: Vaccinate all healthy cattle in a 5km radius with Anthrax spore vaccine.",
+      "6. Human Safety: Seek urgent medical help if humans touch oozing blood or tissues."
+    ],
+    "first_aid_te": [
+      "1. శవాన్ని కోయవద్దు: ముక్కు, నోటి నుండి నల్లటి రక్తం కారితే శవపరీక్ష అస్సలు చేయకూడదు.",
+      "2. నిరోధము: వ్యాధి ఉన్న ప్రదేశం నుండి ఇతర పశువుల రాకపోకలను పూర్తిగా నిలిపివేయండి.",
+      "3. లోతుగా కప్పెట్టుట: చనిపోయిన పశువును 6 అడుగుల లోతు గోతిలో సున్నం చల్లి పూడ్చిపెట్టండి.",
+      "4. పాక దహనం: పాకలోని పాత మేత, వ్యర్థాలను తగలేసి 5% కాస్టిక్ సోడాతో చల్లండి.",
+      "5. నివారణ టీకా: 5 కిలోమీటర్ల పరిధిలోని మిగిలిన పశువులకు ఆంత్రక్స్ టీకా వేయించండి.",
+      "6. మనుషుల జాగ్రత్త: రక్తం తాకినట్లయితే మనుషులు కూడా తక్షణమే వైద్య సహాయం పొందాలి."
+    ]
+  },
+  "Theileriosis": {
+    "disease_en": "Theileriosis (Tick Fever)",
+    "disease_te": " థైలేరియోసిస్ (నల్లి జ్వరం)",
+    "first_aid_en": [
+      "1. Tick Removal: Remove ticks manually or apply prescribed acaricides (Amitraz/Flumethrin).",
+      "2. Fever Management: Place cool damp cloths on forehead during high temperature spikes.",
+      "3. Nutritious Soup: Feed soft, green iron-rich fodder and liver tonic to counter anemia.",
+      "4. Shade Rest: Avoid driving the cattle under high heat or direct sunlight.",
+      "5. Shed Spraying: Spray all shed cracks and walls with anti-tick insecticides.",
+      "6. Specific Drug Therapy: Request Buparvaquone injections from your vet immediately."
+    ],
+    "first_aid_te": [
+      "1. పిడుదుల నివారణ: పశువు శరీరంపై ఉన్న గోమార్లను, పిడుదులను అమిట్రాజ్ మందు ద్వారా నివారించండి.",
+      "2. జ్వరం తగ్గుటకు: తీవ్రమైన జ్వరం ఉన్నప్పుడు తలపై చల్లటి నీటి పట్టీలు వేయండి.",
+      "3. రక్తం పట్టుటకు: తీవ్ర రక్తహీనతను తగ్గించడానికి ఐరన్ మరియు లివర్ టానిక్‌లను ఇవ్వండి.",
+      "4. నీడలో ఉంచుట: పశువును ఎండలో నడిపించకుండా నీడ ఉన్న ప్రదేశంలో ఉంచండి.",
+      "5. పాక స్ప్రే: పాక గోడల సందులలో క్రిమిసంహారక మందులను స్ప్రే చేయండి.",
+      "6. ప్రత్యేకావశ్యక చికిత్స: పశువైద్యుడి సలహాతో బుపారావాక్వోన్ ఇంజెక్షన్ ఇప్పించండి."
+    ]
+  },
+  "Babesiosis": {
+    "disease_en": "Babesiosis (Red Water Disease)",
+    "disease_te": " బేబెసియోసిస్ (ఎర్ర మూత్రపు వ్యాధి)",
+    "first_aid_en": [
+      "1. Absolute Rest: Keep the animal strictly rested; exertion causes fatal red blood cell breakdown.",
+      "2. Monitor Urine Color: Track urine color transition from dark red/coffee brown to clear.",
+      "3. Hydration: Provide clean water with electrolytes to protect kidney function.",
+      "4. Tick Control: Apply pyrethrin sprays to rid the cattle and stall of vector ticks.",
+      "5. Iron Supplements: Administer parenteral iron or blood tonics to recover lost hemoglobin.",
+      "6. Antiprotozoal Injections: Contact vet for Diminazene Aceturate or Imidocarb injection."
+    ],
+    "first_aid_te": [
+      "1. పరిపూర్ణ విశ్రాంతి: పశువును నడిపించకండి; ఆయాసం వల్ల రక్తకణాలు వేగంగా నశిస్తాయి.",
+      "2. మూత్ర రంగు తనిఖీ: మూత్రం కాఫీ రంగు నుండి మామూలు రంగుకు మారే విధానాన్ని గమనించండి.",
+      "3. మంచి నీరు: మూత్రపిండాలు చెడిపోకుండా ఉండటానికి ధారాళంగా ఎలక్ట్రోలైట్ నీటిని ఇవ్వండి.",
+      "4. పిడుదుల నివారణ: పశువుపై మరియు పాకలో పిడుదుల నివారణ స్ప్రేలను వాడండి.",
+      "5. ఐరన్ టానిక్: హిమోగ్లోబిన్ పెరగడానికి ఐరన్ టానిక్‌లు అందించండి.",
+      "6. ప్రోటోజోవా నివారణ: డిమినాజీన్ ఎసిటురేట్ ఇంజెక్షన్ కోసం పశువైద్యుడిని సంప్రదించండి."
+    ]
+  },
+  "Anaplasmosis": {
+    "disease_en": "Anaplasmosis (Gall Sickness)",
+    "disease_te": " అనాప్లాస్మోసిస్ (కామెర్ల జ్వరం)",
+    "first_aid_en": [
+      "1. Reduce Stress: Avoid startling or overworking the pale, anemic animal.",
+      "2. Insect Defense: Use fly nets and mosquito repellents around housing.",
+      "3. High-Calorie Feed: Feed easily digestible, green leafy fodder and molasses water.",
+      "4. Clean Needles: Always use fresh, sterile syringes during herd vaccination to stop spread.",
+      "5. Check Mucous Membranes: Examine eyes and gums daily for yellowing (jaundice).",
+      "6. Oxytetracycline Therapy: Obtain long-acting Oxytetracycline prescription from your vet."
+    ],
+    "first_aid_te": [
+      "1. ఒత్తిడి తగ్గించుట: రక్తహీనత ఉన్న పశువును భయపెట్టడం లేదా శ్రమకు గురిచేయడం చేయకండి.",
+      "2. ఈగల నివారణ: దోమలు, ఈగలు వాలకుండా పాక చుట్టూ దోమ తెరలు లేదా స్ప్రేలు వాడండి.",
+      "3. శక్తినిచ్చే మేత: సులభంగా అరిగే పచ్చిగడ్డి మరియు బెల్లం నీటిని అందించండి.",
+      "4. శుభ్రమైన సూదులు: ఒక పశువుకు వాడిన సిరంజిని మరొక పశువుకు వాడకండి.",
+      "5. కళ్ళ తనిఖీ: కళ్ళు మరియు చిగుళ్ళు పసుపు రంగులోకి మారాయో లేదో రోజువారీగా చూడండి.",
+      "6. ఆక్సిటెట్రాసైక్లిన్: పశువైద్యుడి సలహాతో దీర్ఘకాలిక ఆక్సిటెట్రాసైక్లిన్ వాడండి."
+    ]
+  },
+  "Milk Fever": {
+    "disease_en": "Milk Fever (Hypocalcemia)",
+    "disease_te": " క్షీర జ్వరం (కాల్షియం లోపం)",
+    "first_aid_en": [
+      "1. Do Not Drench: DO NOT force liquid feeds by mouth if the cow is down to prevent aspiration.",
+      "2. S-Curve Support: Prop the downer cow upright using straw bales; do not let her lay flat.",
+      "3. Keep Warm: Cover the shivering cow with dry blankets or gunny bags.",
+      "4. Stop Milking: Avoid complete udder stripping post-calving until recovery.",
+      "5. Calcium Gel: Give oral calcium gel slowly if cow retains swallowing reflex.",
+      "6. Urgent IV Calcium: Call vet for slow Intravenous Calcium Borogluconate administration."
+    ],
+    "first_aid_te": [
+      "1. నోట్లో పోయకూడదు: పశువు పడిపోయినప్పుడు నోట్లో ద్రవాలు బలవంతంగా పోయవద్దు (ఊపిరితిత్తుల్లోకి వెళ్తాయి).",
+      "2. సరిగ్గా పడుకోబెట్టుట: పశువును ఒరిగిపోకుండా గడ్డి మోపుల సహాయంతో తిన్నగా కూర్చోబెట్టండి.",
+      "3. వెచ్చదనం: చలి వణుకు తగ్గడానికి గోనె సంచులను పశువుపై కప్పండి.",
+      "4. పాలు పూర్తిగా పితకవద్దు: కోలుకునే వరకు పొదుగు నుండి పాలను పూర్తిగా పితకడం ఆపండి.",
+      "5. కాల్షియం జెల్: మింగే శక్తి ఉంటే మాత్రమే నోటి ద్వారా కాల్షియం జెల్ ఇవ్వండి.",
+      "6. ఐవి కాల్షియం: తక్షణమే పశువైద్యుడిచే కాల్షియం బోరోగ్లూకోనేట్ ఇంజెక్షన్ ఇప్పించండి."
+    ]
+  },
+  "Ketosis": {
+    "disease_en": "Ketosis (Acetonemia)",
+    "disease_te": " కిటోసిస్ (కీటోన్ లోపం / ఆకలి మందగింపు)",
+    "first_aid_en": [
+      "1. High-Energy Diet: Feed quick-energy supplements like Propylene Glycol or jaggery water.",
+      "2. Appetizers: Offer fresh green grasses, steamed grains, and yeast supplements to boost intake.",
+      "3. Avoid Fiber Overload: Limit poor-quality dry straw that fills rumen without energy.",
+      "4. Monitor Breath: Check for sweet, chemical acetone breath odor daily.",
+      "5. Exercise: Allow light walking exercises in dry paddocks.",
+      "6. Dextrose Therapy: Request IV Dextrose infusion and corticosteroids from your vet."
+    ],
+    "first_aid_te": [
+      "1. తక్షణ శక్తి: ప్రొపైలీన్ గ్లైకాల్ లేదా బెల్లం పానకాన్ని తక్షణ శక్తి కోసం అందించండి.",
+      "2. ఆకలి పెంచుట: పచ్చిగడ్డి మరియు ఈస్ట్ మిశ్రమాలను మేతలో కలిపి ఇవ్వండి.",
+      "3. ఎండుగడ్డి తగ్గించుట: శక్తి లేని నాణ్యత లేని ఎండుగడ్డిని ఎక్కువగా పెట్టకండి.",
+      "4. ఊపిరి వాసన: నోటి నుండి రసాయన/తీపి వాసన వస్తుందో లేదో రోజువారీగా గమనించండి.",
+      "5. చిన్నపాటి నడక: పశువును సేదతీర్చడానికి కొద్దిగా నడిపించండి.",
+      "6. డెక్స్ట్రోస్ ఇంజెక్షన్: పశువైద్యుడి ద్వారా డెక్స్ట్రోస్ ద్రావణాన్ని నరానికి ఇప్పించండి."
+    ]
+  },
+  "Bloat": {
+    "disease_en": "Bloat (Ruminal Tympany)",
+    "disease_te": " కడుపు ఉబ్బరం (కడుపులో గ్యాస్ చేరుట)",
+    "first_aid_en": [
+      "1. Keep Head Up: Keep cow standing with front feet elevated on an incline to ease breathing.",
+      "2. Wooden Bit: Insert a stick/bit in the mouth crosswise to encourage salivation and belching.",
+      "3. Anti-Bloat Drench: Drench 200ml vegetable oil (mustard/groundnut) mixed with turpentine oil.",
+      "4. Exercise Walk: Gently walk the animal around to stimulate intestinal gas movement.",
+      "5. No Lush Pasture: Stop feeding wet legumes, clover, or young succulent green grass immediately.",
+      "6. Emergency Trocar: Use a Trocar and Cannula on left flank only if immediate suffocation threatens life."
+    ],
+    "first_aid_te": [
+      "1. ముందు కాళ్ళు ఎత్తుగా: శ్వాస సులభంగా ఆడటానికి పశువు ముందు కాళ్ళను ఎత్తుగా ఉన్న చోట నిలబెట్టండి.",
+      "2. నోట్లో కర్ర: నోట్లో అడ్డంగా చిన్న కర్రను కట్టి ఉంచడం ద్వారా లాలాజలం ఊరి గ్యాస్ బయటకు వస్తుంది.",
+      "3. నూనె తాపడం: 200 మి.లీ వేరుశనగ లేదా ఆవనూనె తాగించండి.",
+      "4. నడిపించుట: కడుపులోని గ్యాస్ కదలడానికి పశువును నెమ్మదిగా నడిపించండి.",
+      "5. పచ్చిగడ్డి నిలిపివేత: పచ్చిగా ఉన్న లేత గడ్డిని లేదా అలసంద మేతను తక్షణమే ఆపివేయండి.",
+      "6. అత్యవసర రంధ్రం: శ్వాస ఆడక ప్రాణాపాయం ఉంటే పశువైద్యుడిచే ఎడమ వైపు కడుపులో రంధ్రం చేయించి గ్యాస్ తీయించండి."
+    ]
+  },
+  "Bovine Viral Diarrhea": {
+    "disease_en": "Bovine Viral Diarrhea (BVD)",
+    "disease_te": " బివిడి (వైరల్ విరేచనాలు)",
+    "first_aid_en": [
+      "1. Isolate Calves: Isolate diarrheic calves from pregnant cows to halt abortion outbreaks.",
+      "2. Rehydration: Provide continuous oral rehydration salts (ORS) mixed with warm water.",
+      "3. Soft Diet: Feed warm cereal gruels (rice/barley) to soothe inflamed stomach linings.",
+      "4. Clean Shed: Clean droppings twice daily using 2% sodium hypochlorite solution.",
+      "5. Herd Testing: Identify and cull Persistently Infected (PI) chronic carrier calves.",
+      "6. Vet Consultation: Administer supportive anti-diarrheal and electrolyte IV fluids."
+    ],
+    "first_aid_te": [
+      "1. చూడి పశువులకు దూరంగా: విరేచనాలు ఉన్న దూడలను చూడి పశువుల నుండి దూరంగా ఉంచండి.",
+      "2. ఓఆర్ఎస్ ನೀరు: గోరువెచ్చని నీటిలో ఓఆర్ఎస్ (ORS) కలిపి పశువుకు ఇస్తూ ఉండండి.",
+      "3. గంజి పట్టించుట: ప్రేగుల మంట తగ్గడానికి బియ్యపు జావ లేదా బార్లీ నీటిని ఇవ్వండి.",
+      "4. పాక పరిశుభ్రత: రోజుకు రెండుసార్లు పేడను తొలగించి బ్లీచింగ్‌తో కడగండి.",
+      "5. వాహక దూడల గుర్తింపు: వ్యాధిని శాశ్వతంగా వ్యాప్తి చేసే (PI) దూడలను గుర్తించి మంద నుండి తొలగించండి.",
+      "6. వైద్య సంప్రదింపు: యాంటిబయోటిక్ మరియు విరేచనాల నివారణ మందుల కోసం పశువైద్యుడిని సంప్రదించండి."
+    ]
+  },
+  "Infectious Bovine Rhinotracheitis": {
+    "disease_en": "Infectious Bovine Rhinotracheitis (IBR)",
+    "disease_te": " ఐబిఆర్ (ఎర్ర ముక్కు వ్యాధి / శ్వాసకోశ జ్వరం)",
+    "first_aid_en": [
+      "1. Isolate Respiratory Cases: Isolate animals exhibiting nasal discharge and coughing.",
+      "2. Clean Nasal Crusts: Gently wipe red nasal discharge using moist warm cotton pads.",
+      "3. Ventilation: Move the cow to a dust-free, non-stuffy shed with abundant fresh airflow.",
+      "4. Soft Feed: Provide soft, moistened green feed to reduce throat pain during swallowing.",
+      "5. Prevent Stress: Avoid shipping, overcrowding, or abrupt weather exposure.",
+      "6. Vet Secondary Defense: Request vet prescribed NSAIDs and broad-spectrum antibiotics."
+    ],
+    "first_aid_te": [
+      "1. వేరుచేయుట: దగ్గు మరియు ముక్కు నుండి నీరు కారే పశువులను వెంటనే వేరు చేయండి.",
+      "2. ముక్కు శుభ్రత: ముక్కుపై ఉన్న ఎండిన చీమిడిని వెచ్చటి తడి గుడ్డతో సున్నితంగా తుడవండి.",
+      "3. మంచి గాలి: పశువును దుమ్ము లేని, ధారాళమైన గాలి పారే నీడలో ఉంచండి.",
+      "4. మెత్తటి మేత: గొంతు నొప్పి తగ్గడానికి పచ్చిగడ్డిని నీటిలో తడిపి అందించండి.",
+      "5. ఒత్తిడి నివారణ: ప్రయాణాలు మరియు తీవ్రమైన వాతావరణ మార్పుల నుండి పశువును కాపాడండి.",
+      "6. ద్వితీయ వ్యాధి నివారణ: ఊపిరితిత్తుల ఇన్ఫెక్షన్ కాకుండా పశువైద్యుడిచే యాంటిబయోటిక్స్ వాడండి."
+    ]
+  },
+  "Cowpox": {
+    "disease_en": "Cowpox",
+    "disease_te": " కౌపాక్స్ (అమ్మవారు / పొదుగు బొబ్బల వ్యాధి)",
+    "first_aid_en": [
+      "1. Separate Milking: Always milk cowpox-affected cows at the very end of milking shift.",
+      "2. Antiseptic Teat Ointment: Apply Zinc Oxide or Boric Acid ointment on dry udder scabs.",
+      "3. Gentle Milking: Avoid harsh hand-milking pressure on sore, blistered teats.",
+      "4. Sanitized Hands: Milk handlers must wash hands with antiseptic soaps after milking.",
+      "5. Clean Litter: Keep stall floor free from sharp mud or straw that punctures vesicles.",
+      "6. Secondary Infection Prevention: Apply topical antiseptic sprays as advised by your vet."
+    ],
+    "first_aid_te": [
+      "1. చివర్లో పాలు పితుకుట: వ్యాధి ఉన్న పశువుకు అందరికంటే చివర్లో పాలు పితకండి.",
+      "2. మలమ పూత: పొదుగుపై ఉన్న బొబ్బలకు జింక్ ఆక్సైడ్ లేదా బోరిక్ యాసిడ్ పూత పూయండి.",
+      "3. సున్నిత పాలు పితకడం: బొబ్బలు ఉన్న చన్నులను గట్టిగా పిండకుండా సున్నితంగా పాలు తీయండి.",
+      "4. చేతుల పరిశుభ్రత: పాలు పితికే వ్యక్తి డెట్టాల్ లేదా సబ్బుతో చేతులను శుభ్రంగా కడుక్కోవాలి.",
+      "5. నేల శుభ్రత: పొదుగుకు గుచ్చుకునేలా పదునైన పుల్లలు లేకుండా నేలను శుభ్రం చేయండి.",
+      "6. ఇన్ఫెక్షన్ నివారణ: పొదుగుపై చీము పట్టకుండా క్రిమిసంహారక స్ప్రేలను వాడండి."
+    ]
+  },
+  "Rotavirus Calf Scours": {
+    "disease_en": "Rotavirus Calf Scours",
+    "disease_te": " రోటావైరస్ దూడల విరేచనాలు",
+    "first_aid_en": [
+      "1. Warm Hydration: Drench 1-2 liters of warm ORS electrolyte solution 3-4 times daily.",
+      "2. Maintain Colostrum: Ensure newborn receives adequate high-quality colostrum within 4 hours.",
+      "3. Warm Dry Pen: Place calf on dry straw bedding under a warm heating light bulb.",
+      "4. Clean Feeding Buckets: Wash milk bottles/buckets with boiling water after every use.",
+      "5. Buttock Hygiene: Wash soiled calf rear quarters with warm water to prevent skin scalds.",
+      "6. Vet IV Support: Request immediate intravenous fluid therapy if calf is too weak to stand."
+    ],
+    "first_aid_te": [
+      "1. వెచ్చటి ఓఆర్ఎస్: రోజుకు 3-4 సార్లు లీటరు వెచ్చటి ఓఆర్ఎస్ ద్రావణాన్ని తాపించండి.",
+      "2. జున్ను పాలు: పుట్టిన 4 గంటల్లోగా దూడకు సమృద్ధిగా జున్ను పాలు తాగించండి.",
+      "3. వెచ్చటి వాతావరణం: దూడను తేమ లేని పొడి గడ్డిపై వెచ్చటి లైటు కింద ఉంచండి.",
+      "4. గిన్నెల శుభ్రత: పాలు తాగించే గిన్నెలను ప్రతిసారీ మసలే నీటితో కడగండి.",
+      "5. తోక భాగం కడుగుట: విరేచనాల వల్ల ఒంటిపై పడిన మురికిని గోరువెచ్చని నీటితో తుడవండి.",
+      "6. ఐవి ఫ్లూయిడ్స్: దూడ లేచి నిలబడలేకపోతే వెంటనే పశువైద్యుడిచే నరానికి సెలైన్ ఎక్కించండి."
+    ]
+  },
+  "Calf Scours E Coli": {
+    "disease_en": "Calf Scours (Colibacillosis)",
+    "disease_te": " ఇ-కోలై దూడల తెల్ల విరేచనాలు",
+    "first_aid_en": [
+      "1. Isolate Calf: Keep sick, watery-stooling calf away from other newborn calves.",
+      "2. Continuous Fluid Care: Offer oral fluid mixture containing sodium, potassium, and glucose.",
+      "3. Pause Milk Briefy: Withhold milk for 12 hours while replacing with electrolytes, then resume.",
+      "4. Disinfect Calving Pen: Scrub mother's calving area with bleach or 5% cresol solution.",
+      "5. Thermal Support: Wrap calf in dry blankets to combat dropping body temperature.",
+      "6. Vet Antibiotics: Administer oral/systemic antibiotics prescribed by a veterinarian."
+    ],
+    "first_aid_te": [
+      "1. దూడను వేరుచేయుట: తెల్లటి విరేచనాలు అవుతున్న దూడను మిగిలిన దూడల నుండి వేరు చేయండి.",
+      "2. నిరంతర ద్రవాలు: సోడియం, గ్లూకోజ్ ఉన్న ఓఆర్ఎస్ నీటిని ఇస్తూనే ఉండండి.",
+      "3. పాలు కొద్దిసేపు ఆపుట: 12 గంటల పాటు పాలు ఆపి ద్రవాహారం ఇచ్చి, తిరిగి పాలు పట్టడం ప్రారంభించండి.",
+      "4. ఈత ప్రదేశం శుభ్రత: ఈత గదిని బ్లీచింగ్ పౌడర్ ద్రావణంతో బాగా కడగండి.",
+      "5. వెచ్చదనం: శరీర ఉష్ణోగ్రత పడిపోకుండా దూడకు దుప్పటి కప్పండి.",
+      "6. యాంటిబయోటిక్ వాడకం: పశువైద్యుడి సలహాతో ఇ-కోలై నివారణ యాంటిబయోటిక్స్ వాడండి."
+    ]
+  },
+  "Foot Rot": {
+    "disease_en": "Foot Rot (Interdigital Necrobacillosis)",
+    "disease_te": " ఫుట్ రాట్ (కాళ్ళ కుళ్ళు వ్యాధి)",
+    "first_aid_en": [
+      "1. Clean Interdigital Space: Carefully clean mud, manure, and stones from between hooves.",
+      "2. Footbath Treatment: Walk cattle through a 5% Copper Sulfate or Zinc Sulfate footbath solution.",
+      "3. Dry Housing: Move the affected cattle to clean, dry, unpaved concrete bedding.",
+      "4. Antiseptic Ointment: Apply pine tar or antibiotic bandage wrap around the hoof cleft.",
+      "5. Hoof Trimming: Carefully trim overgrown, decayed hoof horn to expose healthy tissue.",
+      "6. Systemic Antibiotics: Administer vet-prescribed injectable Penicillin or Ceftiofur."
+    ],
+    "first_aid_te": [
+      "1. గిట్టల సందుల శుభ్రత: గిట్టల సందుల్లో పేరుకుపోయిన మురికి, రాళ్ళను జాగ్రత్తగా తొలగించండి.",
+      "2. కాళ్ళ కడుగు ద్రావణం: 5% రాగి సుల్ఫేట్ (మైలుతుత్తం) ద్రావణంలో కాళ్ళను నిమిషం పాటు ఉంచండి.",
+      "3. పొడి నేల: పశువును బురద లేని పొడి నేల లేదా కాంక్రీట్ పాకలో కట్టేయండి.",
+      "4. మలమ పూత: గిట్టల సందుల్లో క్రిమిసంహారక ముద్ద లేదా యాంటిబయోటిక్ పట్టీ వేయండి.",
+      "5. గిట్టల చెక్కడము: పెరిగిన, కుళ్ళిన గిట్టల భాగాలను పశువైద్యుడిచే చెక్కించండి.",
+      "6. యాంటిబయోటిక్ చికిత్స: వాపు తగ్గడానికి పశువైద్యుడి సలహాతో ఇంజెక్షన్లు ఇప్పించండి."
+    ]
+  },
+  "Lumpy Jaw": {
+    "disease_en": "Actinomycosis (Lumpy Jaw)",
+    "disease_te": " లంపీ జా (దవడ ఎముక వాపు వ్యాధి)",
+    "first_aid_en": [
+      "1. Soft Feed Only: Feed soft, non-thorny green mash to prevent mouth tissue puncture.",
+      "2. Clean Pus Discharge: Wipe oozing jaw abscesses using cotton soaked in povidone-iodine.",
+      "3. Isolate Feed Troughs: Keep feeding buckets separate as pus contains infective bacteria.",
+      "4. Remove Sharp Fodder: Inspect hay for sharp awns, coarse stalks, or wire pieces.",
+      "5. Salt Water Wash: Flush mouth interior with warm mild salt water after feeding.",
+      "6. Vet Iodine Therapy: Schedule IV Sodium Iodide injections with your veterinary surgeon."
+    ],
+    "first_aid_te": [
+      "1. మెత్తని మేత మాత్రమే: దవడ నొప్పి తగ్గడానికి పదునైన ముళ్ళు లేని మెత్తటి పచ్చిగడ్డి లేదా జావ ఇవ్వండి.",
+      "2. చీము శుభ్రత: దవడపై పగిలిన చీమును పాడు చేయకుండా ఐయోడిన్ ద్రావణంతో తుడవండి.",
+      "3. మేత తొట్టెల వేరుచేయుట: చీము ద్వారా వ్యాప్తి చెందకుండా బాధింపబడిన పశువు తొట్టెలను వేరు చేయండి.",
+      "4. పదునైన మేత నివారణ: మేతలో ముళ్ళు, పదునైన గడ్డి పుల్లలు లేకుండా చూసుకోండి.",
+      "5. ఉప్పునీటి కడుగు: మేత మేసిన తర్వాత నోటి లోపలి భాగాన్ని గోరువెచ్చని ఉప్పునీటితో కడగండి.",
+      "6. సోడియం అయోడైడ్ చికిత్స: దవడ ఎముక వాపు తగ్గడానికి పశువైద్యుడిచే సోడియం అయోడైడ్ ఇంజెక్షన్ ఇప్పించండి."
+    ]
+  },
+  "Wooden Tongue": {
+    "disease_en": "Actinobacillosis (Wooden Tongue)",
+    "disease_te": " వుడెన్ టంగ్ (మొద్దు నాలుక వ్యాధి)",
+    "first_aid_en": [
+      "1. Liquid Gruels: Feed thin, nutrient-rich gruels as the stiff tongue prevents chewing hay.",
+      "2. Clean Drool: Periodically wipe excessive drool from lower jaw and chest.",
+      "3. Protect Eyes: Keep surroundings clean as drool attracts severe fly nuisance.",
+      "4. Gentle Wash: Flush oral cavity daily with diluted warm potassium permanganate.",
+      "5. Avoid Roughage: Cease feeding dry coarse roughage until tongue mobility returns.",
+      "6. Vet Antibiotics: Administer Sodium Iodide IV and Streptomycin injections via a vet."
+    ],
+    "first_aid_te": [
+      "1. పల్చటి ద్రవాహారం: నాలుక గట్టిపడి నమలలేకపోవడం వల్ల పల్చటి జావ మరియు నీళ్ళను మాత్రమే పటకండి.",
+      "2. లాలాజలం తుడవడం: నోటి నుండి కారే లాలాజలాన్ని తరచుగా గుడ్డతో తుడవండి.",
+      "3. ఈగల నివారణ: లాలాజలం వాసనకు ఈగలు వాలకుండా పాకను పరిశుభ్రంగా ఉంచండి.",
+      "4. నోటి కడుగు: పొటాషియం పర్మాంగనేట్ నీటితో రోజుకు ఒకసారి నోటిని శుభ్రం చేయండి.",
+      "5. ఎండు మేత ఆపుట: నాలుక కదిలేవరకు ఎండుగడ్డిని అస్సలు పెట్టకండి.",
+      "6. స్ట్రెప్టోమైసిన్ చికిత్స: నాలుక మెత్తబడటానికి పశువైద్యుడిచే స్ట్రెప్టోమైసిన్ ఇంజెక్షన్ ఇప్పించండి."
+    ]
+  },
+  "Leptospirosis": {
+    "disease_en": "Leptospirosis",
+    "disease_te": " లెప్టోస్పైరోసిస్ (ఎలుకల జ్వరం / రక్తం మూత్రం)",
+    "first_aid_en": [
+      "1. Rodent Control: Exterminate rats and mice around feed stores to prevent urine contamination.",
+      "2. Quarantine Sick Animals: Isolate cattle passing bloody/reddish urine or discolored milk.",
+      "3. Drain Stagnant Water: Prevent cattle from drinking or standing in muddy, stagnant marsh water.",
+      "4. Protective Gear: Wear rubber boots and gloves when handling urine-soiled bedding.",
+      "5. Disinfect Shed Floor: Clean gutters daily using 10% bleach or quaternary ammonium wash.",
+      "6. Vet Antibiotic Course: Request a full high-dose Streptomycin or Tetracycline course."
+    ],
+    "first_aid_te": [
+      "1. ఎలుకల నివారణ: ధాన్యపు కొట్లు మరియు పాకలో ఎలుకలు లేకుండా నివారణ చర్యలు తీసుకోండి.",
+      "2. పశువును వేరుచేయుట: ఎర్రటి మూత్రం మరియు పసుపు పాలు ఇచ్చే పశువులను వెంటనే వేరు చేయండి.",
+      "3. నిల్వ నీటి నివారణ: పశువులు గుంటల్లోని నిల్వ నీటిని తాగకుండా జాగ్రత్త పడండి.",
+      "4. రక్షణ తొడుగులు: మూత్రంతో తడిసిన మేతను తొలగించేటప్పుడు గ్లౌజులు, బూట్లు వేసుకోండి.",
+      "5. క్రిమిసంహారము: పాక కాలువలను రోజువారీగా బ్లీచింగ్ పౌడర్‌తో శుభ్రం చేయండి.",
+      "6. యాంటిబయోటిక్ కోర్సు: వ్యాధి నయం కావడానికి పశువైద్యుడిచే స్ట్రెప్టోమైసిన్ ఇంజెక్షన్లు ఇప్పించండి."
+    ]
+  },
+  "Listeriosis": {
+    "disease_en": "Listeriosis (Circling Disease)",
+    "disease_te": " లిస్టెరియోసిస్ (తలాడించే వ్యాధి / తిరుగుడు రోగం)",
+    "first_aid_en": [
+      "1. Stop Spoiled Silage: Stop feeding moldy or poorly fermented silage (pH > 5.0) immediately.",
+      "2. Soft Padded Bedding: Provide soft straw padding to prevent injuries if animal circles/falls.",
+      "3. Assist Drinking: Hold water buckets directly under cow's mouth if facial paralysis occurs.",
+      "4. Isolate Nervous Cases: Keep nervous, uncoordinated animals in a quiet, dark stall.",
+      "5. Hand Feed Fodder: Slowly hand-feed small bundles of fresh grass into the functioning side of jaw.",
+      "6. Vet Penicillin Therapy: Administer high-dose IV Penicillin or Ampicillin in early stages."
+    ],
+    "first_aid_te": [
+      "1. బూజు మేత నిలిపివేత: బూజు పట్టిన లేదా చెడిపోయిన పాత మేత (సైలేజ్) పెట్టడం తక్షణమే ఆపండి.",
+      "2. మెత్తటి పడక: పశువు తలతిరిగి పడిపోయినప్పుడు దెబ్బలు తగలకుండా మెత్తటి గడ్డి పడకను ఏర్పాటు చేయండి.",
+      "3. నీరు తాగించుట: మూతి పక్షవాతం వస్తే నీటి బకెట్‌ను నేరుగా నోటి కింద పట్టుకుని తాగించండి.",
+      "4. చీకటి గది: మందలించి ప్రవర్తించే పశువును ప్రశాంతమైన, తక్కువ వెలుతురు ఉన్న గదిలో ఉంచండి.",
+      "5. చేతితో మేతపట్టడం: దవడ పనిచేస్తున్న వైపు నుండి చిన్న చిన్న గడ్డి పిడికిళ్ళను చేతితో అందించండి.",
+      "6. పెన్సిలిన్ ఇంజెక్షన్: ప్రారంభ దశలోనే పశువైద్యుడిచే పెన్సిలిన్ ఇంజెక్షన్ నరానికి ఇప్పించండి."
+    ]
+  },
+  "Acidosis": {
+    "disease_en": "Grain Overload (Rumen Acidosis)",
+    "disease_te": " అసిడోసిస్ (ధాన్యం ఎక్కువగా తినడం వల్ల వచ్చు కడుపు మంట)",
+    "first_aid_en": [
+      "1. Restrict All Grains: Stop access to concentrates, grains, rice, or bakery waste instantly.",
+      "2. Oral Antacid Drench: Drench 250-500g Sodium Bicarbonate (baking soda) in 2 liters water.",
+      "3. Offer Dry Fiber: Feed good-quality dry straw hay to stimulate rumination and buffering saliva.",
+      "4. Hydration Support: Allow free access to fresh clean water to counter severe fluid shifts.",
+      "5. Gentle Walking: Walk cow slowly to encourage gut movement if standing is stable.",
+      "6. Vet Rumen Flush: Seek vet assistance for IV fluids or rumenotomy in acute overload."
+    ],
+    "first_aid_te": [
+      "1. ధాన్యం ఆపివేయుట: దానా, వరి ధాన్యం, రొట్టెలు లేదా పిండి పదార్థాలు పెట్టడం వెంటనే ఆపండి.",
+      "2. వంటసోడా ద్రావణం: 250 గ్రాముల వంటసోడా (సోడియం బైకార్బోనేట్) నీటిలో కలిపి తాగించండి.",
+      "3. ఎండుగడ్డి మేత: నెమరు వేయడం కోసం నాణ్యమైన ఎండుగడ్డిని మేతగా ఇవ్వండి.",
+      "4. సమృద్ధిగా నీరు: కడుపులో యాసిడ్ తీవ్రత తగ్గడానికి శుభ్రమైన నీటిని అందుబాటులో ఉంచండి.",
+      "5. నెమ్మదిగా నడిపించుట: పేగుల కదలిక కోసం పశువును నెమ్మదిగా నడిపించండి.",
+      "6. రూమెన్ ఫ్లష్: తీవ్రంగా ఉంటే పశువైద్యుడిచే కడుపులోని ద్రావణాన్ని బయటకు తీయించండి."
+    ]
+  },
+  "Hardware Disease": {
+    "disease_en": "Traumatic Reticuloperitonitis (Hardware Disease)",
+    "disease_te": " హార్డ్‌వేర్ డిసీజ్ (ఇనుప మేకులు తినడం వల్ల కడుపు గాయం)",
+    "first_aid_en": [
+      "1. Elevate Front Quarters: Keep cow standing on an incline with elevated front legs to reduce organ pressure.",
+      "2. Restrict Movement: Avoid walking cow up/down steps or driving her over rough terrain.",
+      "3. Administer Rumen Magnet: Pass a strong smooth rumen magnet orally to trap metallic wires.",
+      "4. Soft Green Fodder: Feed easily digestible soft grass; avoid bulky coarse dry stalks.",
+      "5. Monitor Heart Rate: Track breathing patterns for painful grunting or shallow breaths.",
+      "6. Vet Surgery: Consult vet for surgical Rumenotomy if magnet fails to relieve pain."
+    ],
+    "first_aid_te": [
+      "1. ముందు భాగం ఎత్తుగా: ఇనుప మేకులు గుండె భాగంలోకి గుచ్చుకోకుండా ముందు కాళ్ళను ఎత్తులో ఉంచండి.",
+      "2. నడిపించకూడదు: పశువును మెట్లు ఎక్కించడం లేదా ఎగుడుదిగుడు నేలల్లో నడిపించడం చేయకండి.",
+      "3. సూది అయస్కాంతం: కడుపులోని ఇనుప ముక్కలను లాక్కోవడానికి నోటి ద్వారా రఫింగ్ అయస్కాంతాన్ని తొయ్యండి.",
+      "4. మెత్తటి పచ్చిగడ్డి: జీర్ణక్రియ సులభంగా అవ్వడానికి మెత్తటి పచ్చిగడ్డిని మాత్రమే ఇవ్వండి.",
+      "5. శ్వాస గమనింపు: పశువు మూలుగుతూ శ్వాస తీసుకుంటుందో లేదో గమనించండి.",
+      "6. ఆపరేషన్ సహాయం: నొప్పి తగ్గకపోతే పశువైద్యుడి ద్వారా శస్త్రచికిత్స (రూమెనోటమీ) చేయించండి."
+    ]
+  },
+  "Coccidiosis": {
+    "disease_en": "Coccidiosis",
+    "disease_te": " కాక్సిడియోసిస్ (రక్త విరేచనాలు)",
+    "first_aid_en": [
+      "1. Dry Pen Flooring: Change dirty bedding daily; coccidia oocysts thrive in warm damp dung.",
+      "2. Isolate Young Stock: Separate affected young calves aged 1-6 months immediately.",
+      "3. Anti-Coccidial Drench: Administer oral Amprolium or Sulfamethazine as directed by vet.",
+      "4. Rehydration: Drench warm electrolyte water to replenish severe rectal fluid loss.",
+      "5. Elevated Waterers: Keep feed and water troughs 2 feet above floor to avoid dung splashing.",
+      "6. Vet Medication: Request vet-prescribed Toltrazuril suspension for quick clearance."
+    ],
+    "first_aid_te": [
+      "1. పాక తడి లేకుండా చూచుట: తడి గడ్డి మరియు పేడను ప్రతిరోజూ తీసివేసి పాకను పొడిగా ఉంచండి.",
+      "2. చిన్న దూడల వేరుచేయుట: 1 నుండి 6 నెలల వయస్సు ఉన్న దూడలకు ఇది త్వరగా సోకుతుంది కాబట్టి వేరు చేయండి.",
+      "3. వ్యాధి నివారణ మందు: పశువైద్యుడి సలహాతో ఆంప్రోలియం లేదా సల్ఫా మందులను తాగించండి.",
+      "4. నీటి శాతం పెంపు: రక్త విరేచనాల వల్ల కోల్పోయిన నీటిని భర్తీ చేయడానికి ఓఆర్ఎస్ నీటిని ఇవ్వండి.",
+      "5. ఎత్తైన తొట్టెలు: తొట్టెల్లో పేడ పడకుండా నేల నుండి 2 అడుగుల ఎత్తులో ఏర్పాటు చేయండి.",
+      "6. టోల్ట్రాజురిల్ సిరప్: తక్షణ ఉపశమనం కోసం పశువైద్యుడిచే టోల్ట్రాజురిల్ మందు ఇప్పించండి."
+    ]
+  },
+  "Fasciolosis": {
+    "disease_en": "Fasciolosis (Liver Fluke)",
+    "disease_te": " కాలేయపు పురుగుల వ్యాధి (జలగ రోగం)",
+    "first_aid_en": [
+      "1. Restrict Marshy Grazing: Keep cattle away from damp, waterlogged, snail-infested pastures.",
+      "2. Deworming Schedule: Administer Triclabendazole or Oxyclozanide drench under vet advice.",
+      "3. Liver Tonics: Provide daily oral liver tonics to support damaged liver regeneration.",
+      "4. High-Protein Feed: Feed oil cakes and mineral mixtures to counter jaw swelling (bottle jaw).",
+      "5. Snail Habitat Control: Drain swampy corners or dust copper sulfate powder over wet soil.",
+      "6. Fecal Testing: Send dung samples for routine fluke egg count evaluation."
+    ],
+    "first_aid_te": [
+      "1. గుంటల వద్ద మేత నివారణ: నత్తలు ఉన్న తడి గుంటలు, నీటి కాలువల వద్ద పశువులను మేపకండి.",
+      "2. జలగల నివారణ మందు: పశువైద్యుడి సలహాతో ట్రైక్లాబెండజోల్ జలగల మందును తాగించండి.",
+      "3. లివర్ టానిక్: దెబ్బతిన్న కాలేయం కోలుకోవడానికి రోజువారీగా లివర్ టానిక్ అందించండి.",
+      "4. గొంతు కింద వాపు నివారణ: గొంతు కింద నీటి వాపు తగ్గడానికి ఖనిజ లవణాలు మరియు పిండి దానా ఇవ్వండి.",
+      "5. నత్తల నివారణ: నిల్వ నీటి గుంటల్లో రాగి సుల్ఫేట్ పొడిని చల్లి నత్తలను నివారించండి.",
+      "6. పేడ పరీక్ష: పేడలో జలగల గుడ్లను గుర్తించడానికి క్రమం తప్పకుండా ల్యాబ్ పరీక్ష చేయించండి."
+    ]
+  },
+  "Ringworm": {
+    "disease_en": "Ringworm (Dermatophytosis)",
+    "disease_te": " రింగ్‌వార్మ్ (తామర / చర్మపు బూజు వ్యాధి)",
+    "first_aid_en": [
+      "1. Sunlight Exposure: Move cattle to direct open sunlight; UV radiation kills fungal spores.",
+      "2. Soften Crusts: Gently scrub gray crusty patches using warm soapy water and soft brush.",
+      "3. Topical Antifungal: Apply Povidone-Iodine solution or Antifungal cream (Clotrimazole) daily.",
+      "4. Sanitize Grooming Gear: Wash ropes, halters, and brushes with 5% bleach before re-use.",
+      "5. Isolate Infection: Separate affected cattle to prevent direct skin friction spread.",
+      "6. Vet Antifungal Spray: Obtain prescription systemic or spray antifungals for widespread crusts."
+    ],
+    "first_aid_te": [
+      "1. సమృద్ధిగా ఎండ: పశువును మంచి ఎండ పడే చోట కట్టేయండి; ఎండ వల్ల బూజు త్వరగా నశిస్తుంది.",
+      "2. పొట్టు తొలగింపు: చర్మంపై ఉన్న బూజు పొట్టును సబ్బు నీటితో మెత్తగా తుడిచి తొలగించండి.",
+      "3. తామర మలమ: పోవిడోన్-ఐయోడిన్ లేదా క్లోట్రిమజోల్ మలమును ప్రతిరోజూ పూయండి.",
+      "4. తాడుల పరిశుభ్రత: పశువుకు వాడే తాడులు, దువ్వెనలను డెట్టాల్ నీటిలో ఉతికి వాడండి.",
+      "5. పశువును వేరుచేయుట: చర్మం ఒకదానికొకటి రాసుకోకుండా బాధింపబడిన పశువును వేరు చేయండి.",
+      "6. యాంటీఫంగల్ స్ప్రే: శరీరం అంతా వ్యాపిస్తే పశువైద్యుడిచే యాంటీఫంగల్ స్ప్రే రాయించండి."
+    ]
+  }
+}
